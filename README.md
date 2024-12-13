@@ -12,7 +12,7 @@ Expand the training dataset to include diverse lighting conditions (e.g., bright
 Improve the model by incorporating various tomato varieties and sizes in the dataset.
 Detailed State Detection
 
-Go beyond simple "fresh/spoiled" detection to include classifications such as "partially spoiled" or "fully spoiled."
+Go beyond simple "fresh/at risk/rotten" detection to include classifications such as "partially spoiled" or "fully spoiled."
 IoT Integration
 
 Integrate with agricultural IoT sensors to analyze environmental conditions (temperature, humidity) alongside spoilage states.
