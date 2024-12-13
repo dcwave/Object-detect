@@ -42,3 +42,5 @@ Spoilage Detection Algorithms
 
 Research on algorithms for detecting spoilage features (e.g., color changes, surface damage) can contribute to improving the data processing methods of this project.
 This project goes beyond solving a technical challenge to enhance the sustainability of agriculture and the food industry, offering significant social value. By further improving the system's accuracy and efficiency, it has the potential to become an essential tool for quality management in agricultural products.
+
+The source of the images used for detection is Rotating Tomatoes images on the YouTube Temponaut Timelapse channel.
